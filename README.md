@@ -1,7 +1,13 @@
 # This is Tim personal website. It contains personal Information, CV, blog and showcast
+## Server of website： Hugoblox + Github + cloudflare
+## domain: litianming.site Tencent cloud
 
-## [This website is powered by Hugoblox that is a Academic CV template of Hugo](https://github.com/HugoBlox/hugo-theme-academic-cv)
+## [This website is powered by Hugoblox that is an Academic CV template of Hugo](https://github.com/HugoBlox/hugo-theme-academic-cv)
+
+
+
 ## The short description of Hugoblox is below
+
 <!-- TODO: Replace with a short demo video showing Hugo Chat generating an academic profile page -->
 <!-- https://github.com/user-attachments/assets/REPLACE_ME -->
 
