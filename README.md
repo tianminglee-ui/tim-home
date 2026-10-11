@@ -1,7 +1,7 @@
-# [The Academic CV That Gets You Hired](https://github.com/HugoBlox/hugo-theme-academic-cv)
+# This is Tim personal website. It contains personal Information, CV, blog and showcast
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/academic-cv?utm_source=github&utm_medium=readme&utm_content=preview)
-
+## [This website is powered by Hugoblox that is a Academic CV template of Hugo](https://github.com/HugoBlox/hugo-theme-academic-cv)
+## The short description of Hugoblox is below
 <!-- TODO: Replace with a short demo video showing Hugo Chat generating an academic profile page -->
 <!-- https://github.com/user-attachments/assets/REPLACE_ME -->
 
