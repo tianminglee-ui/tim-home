@@ -1,7 +1,7 @@
 # This is Tim personal website. It contains personal Information, CV, blog and showcast
 ## Server of website： Hugoblox + Github + cloudflare
 ## domain: litianming.site Tencent cloud registration
-# DNS 服务器 melina.ns.cloudflare.com patrick.ns.cloudflare.com resolving by cloudflare CNAME litianmingsite.pages.dev
+## DNS 服务器 melina.ns.cloudflare.com patrick.ns.cloudflare.com resolving by cloudflare CNAME litianmingsite.pages.dev
 
 ## [This website is powered by Hugoblox that is an Academic CV template of Hugo](https://github.com/HugoBlox/hugo-theme-academic-cv)
 
